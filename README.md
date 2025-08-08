@@ -1,11 +1,11 @@
 # Progetto Fondamenti di Automatica 
 Analisi di un Sistema Dinamico (Tempo Continuo e Discreto) e 
 
-## Descrizione del progetto
+## Descrizione
 Il progetto ha l’obiettivo di analizzare un sistema dinamico sia in tempo continuo che in tempo discreto, affiancato dallo studio di una catena di Markov discreta e dal calcolo dello spanning tree associato al grafo di transizione della catena.
 L’attività rientra nel corso di Fondamenti di Automatica.
 
-## Contenuto del progetto
+## Contenuto
 
 Il progetto è suddiviso nelle seguenti sezioni principali:
 
@@ -25,4 +25,4 @@ Il progetto è suddiviso nelle seguenti sezioni principali:
 
 ## Strumenti utilizzati
 - Wolfram Mathematica, sfruttando le sue capacità simboliche, numeriche e grafiche per l'analisi del sistema dinamico.
-- Python, per effettuare delle simulazioni in merito alla catena di Markov
+
